@@ -6,4 +6,4 @@ Simple template for a flask web app.
 
 
 ## References
-Adaptem from Abdelhadi Dyouri, 2020 https://www.digitalocean.com/
+Adapted from <a href="https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3"> Digital Ocean, Abdelhadi Dyouri (2020)</a>.
