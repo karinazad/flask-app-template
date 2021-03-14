@@ -6,4 +6,4 @@ Simple template for a flask web app.
 
 
 ## References
-Abdelhadi Dyouri, 2020 https://www.digitalocean.com/
+Adaptem from Abdelhadi Dyouri, 2020 https://www.digitalocean.com/
