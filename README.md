@@ -2,7 +2,7 @@
 
 Simple template for a flask web app. 
 
-<img src="https://raw.githubusercontent.com/karinazad/flask-app-template/main/flask_app.png?token=ANKC3TBMJXUS2T7FSIWJYSTAK5SMC">
+<img src="https://raw.githubusercontent.com/karinazad/flask-app-template/main/flask_app.png?token=ANKC3TBGRMRDBDILYPFS5M3AK537I">
 
 
 ## References
